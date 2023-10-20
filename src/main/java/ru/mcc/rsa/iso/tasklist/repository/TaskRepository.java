@@ -1,5 +1,6 @@
 package ru.mcc.rsa.iso.tasklist.repository;
 
+import org.springframework.stereotype.Repository;
 import ru.mcc.rsa.iso.tasklist.domain.task.Task;
 import ru.mcc.rsa.iso.tasklist.domain.user.User;
 
